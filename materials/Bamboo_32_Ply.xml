@@ -1,0 +1,11 @@
+<material>
+  <engraveColor>#3300ff</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffcc66</color>
+  <name>Bamboo Ply</name>
+  <materialThicknesses>
+    <float>0.6</float>
+    <float>1.0</float>
+    <float>4.0</float>
+  </materialThicknesses>
+</material>

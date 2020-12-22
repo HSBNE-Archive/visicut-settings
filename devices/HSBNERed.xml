@@ -1,0 +1,43 @@
+<laserDevice>
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job &apos;$jobname&apos; was sent to cutter &apos;$name&apos;
+</jobSentText>
+  <jobPrefix>_red </jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.SmoothieBoard">
+    <lineend>CRLF</lineend>
+    <baudRate>115200</baudRate>
+    <flipXaxis>false</flipXaxis>
+    <flipYaxis>false</flipYaxis>
+    <httpUploadUrl></httpUploadUrl>
+    <autoPlay>false</autoPlay>
+    <supportedResolutions>100,150,200,250,300,400,500</supportedResolutions>
+    <waitForOKafterEachLine>true</waitForOKafterEachLine>
+    <preJobGcode>G21,G90,M80.1,G4 S5,G28,M80,M3</preJobGcode>
+    <postJobGcode>G0 X0 Y0,M81,M5</postJobGcode>
+    <serialTimeout>15000</serialTimeout>
+    <exportPath>Z:\Paths</exportPath>
+    <uploadMethod>File</uploadMethod>
+    <identificationLine>Smoothie</identificationLine>
+    <initDelay>0</initDelay>
+    <host></host>
+    <comport></comport>
+    <max__speed>20000.0</max__speed>
+    <travel__speed>20000.0</travel__speed>
+    <blankLaserDuringRapids>false</blankLaserDuringRapids>
+    <useBidirectionalRastering>true</useBidirectionalRastering>
+    <spindleMax>1.0</spindleMax>
+    <currentPower>-1.0</currentPower>
+    <currentSpeed>-1.0</currentSpeed>
+    <nextPower>-1.0</nextPower>
+    <nextSpeed>-1.0</nextSpeed>
+    <currentFocus>0.0</currentFocus>
+    <bedWidth>700.0</bedWidth>
+    <bedHeight>500.0</bedHeight>
+    <rasterPadding>4.0</rasterPadding>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <name>HSBNERed</name>
+</laserDevice>

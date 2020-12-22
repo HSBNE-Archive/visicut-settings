@@ -1,0 +1,11 @@
+<material>
+  <description></description>
+  <thumbnailPath>Polypropylene_32__40_PP_41_.png</thumbnailPath>
+  <engraveColor>#ffffff</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#a4a4fe</color>
+  <name>Polypropylene (PP)</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

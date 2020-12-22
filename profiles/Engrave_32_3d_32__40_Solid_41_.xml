@@ -1,0 +1,7 @@
+<raster3dProfile>
+  <DPI>200.0</DPI>
+  <description>A new Laserprofile</description>
+  <name>Engrave 3d (Solid)</name>
+  <invertColors>false</invertColors>
+  <colorShift>0</colorShift>
+</raster3dProfile>

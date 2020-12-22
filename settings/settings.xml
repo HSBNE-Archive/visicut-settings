@@ -1,0 +1,31 @@
+<visicutPreferences>
+  <defaultMapping>Cut everything</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>HSBNE</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <autoUpdateSettingsDisabled>true</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
+  <lastAutoUpdateLabName></lastAutoUpdateLabName>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>C:\Users\HSBNE\AppData\Local\Temp\temp-visicut-q04hw2m5\HV_Variac_SIde_View_Right.svg</string>
+    <string>C:\Users\HSBNE\AppData\Local\Temp\temp-visicut-yqq4kmjw\halostick.svg</string>
+    <string>C:\Users\HSBNE\AppData\Local\Temp\temp-visicut-qul2chkw\halo.svg</string>
+    <string>C:\Users\HSBNE\Desktop\drawing.svg</string>
+    <string>C:\Users\HSBNE\AppData\Local\Temp\temp-visicut-plv3iqhe\laser2.svg</string>
+  </recentFiles>
+  <lastMaterial>Acrylic</lastMaterial>
+  <lastLaserDevice>HSBNERed</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <fabLabLocationFacebookId></fabLabLocationFacebookId>
+  <laserCutterTags></laserCutterTags>
+  <supportedExtensions></supportedExtensions>
+</visicutPreferences>

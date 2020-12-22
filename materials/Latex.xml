@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#3333ff</engraveColor>
+  <cutColor>#ff0033</cutColor>
+  <color>#ffcc99</color>
+  <name>Latex</name>
+  <materialThicknesses>
+    <float>0.1</float>
+  </materialThicknesses>
+</material>

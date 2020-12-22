@@ -1,0 +1,11 @@
+<material>
+  <thumbnailPath>MDF.png</thumbnailPath>
+  <engraveColor>#009999</engraveColor>
+  <cutColor>#ff3333</cutColor>
+  <color>#ffcc33</color>
+  <name>MDF</name>
+  <materialThicknesses>
+    <float>3.0</float>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>
